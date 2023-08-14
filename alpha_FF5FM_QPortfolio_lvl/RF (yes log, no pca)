@@ -1,0 +1,1477 @@
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 12:05:37.483341
+
+
+Regression results for quintile 1 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.150
+Model:                                   OLS   Adj. R-squared:                  0.035
+Method:                        Least Squares   F-statistic:                     1.298
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.278
+Time:                               12:05:37   Log-Likelihood:                -157.70
+No. Observations:                         51   AIC:                             329.4
+Df Residuals:                             44   BIC:                             342.9
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9757      0.867      1.126      0.266      -0.771       2.722
+Mkt-RF        -0.2853      0.177     -1.610      0.115      -0.642       0.072
+SMB            0.8218      0.385      2.132      0.039       0.045       1.599
+HML           -0.5337      0.280     -1.908      0.063      -1.098       0.030
+RMW            0.5716      0.403      1.419      0.163      -0.240       1.383
+CMA            0.3872      0.423      0.916      0.365      -0.464       1.239
+Mom            0.0780      0.229      0.340      0.735      -0.384       0.540
+==============================================================================
+Omnibus:                        4.166   Durbin-Watson:                   2.056
+Prob(Omnibus):                  0.125   Jarque-Bera (JB):                3.331
+Skew:                          -0.615   Prob(JB):                        0.189
+Kurtosis:                       3.237   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.147
+Model:                                   OLS   Adj. R-squared:                  0.030
+Method:                        Least Squares   F-statistic:                     1.262
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.294
+Time:                               12:05:37   Log-Likelihood:                -150.34
+No. Observations:                         51   AIC:                             314.7
+Df Residuals:                             44   BIC:                             328.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9643      0.750      1.285      0.205      -0.548       2.476
+Mkt-RF        -0.2291      0.153     -1.494      0.142      -0.538       0.080
+SMB            0.8102      0.334      2.428      0.019       0.138       1.483
+HML           -0.3990      0.242     -1.648      0.107      -0.887       0.089
+RMW            0.6954      0.349      1.994      0.052      -0.007       1.398
+CMA            0.3321      0.366      0.908      0.369      -0.405       1.069
+Mom            0.0210      0.198      0.106      0.916      -0.379       0.421
+==============================================================================
+Omnibus:                        3.151   Durbin-Watson:                   2.085
+Prob(Omnibus):                  0.207   Jarque-Bera (JB):                2.135
+Skew:                          -0.390   Prob(JB):                        0.344
+Kurtosis:                       3.630   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.166
+Model:                                   OLS   Adj. R-squared:                  0.052
+Method:                        Least Squares   F-statistic:                     1.460
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.214
+Time:                               12:05:37   Log-Likelihood:                -150.50
+No. Observations:                         51   AIC:                             315.0
+Df Residuals:                             44   BIC:                             328.5
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.6698      0.753      0.890      0.378      -0.847       2.186
+Mkt-RF        -0.2153      0.154     -1.399      0.169      -0.525       0.095
+SMB            0.8639      0.335      2.581      0.013       0.189       1.538
+HML           -0.3478      0.243     -1.432      0.159      -0.837       0.142
+RMW            0.7348      0.350      2.101      0.041       0.030       1.440
+CMA            0.3803      0.367      1.036      0.306      -0.359       1.120
+Mom            0.1116      0.199      0.561      0.578      -0.289       0.513
+==============================================================================
+Omnibus:                        8.702   Durbin-Watson:                   2.071
+Prob(Omnibus):                  0.013   Jarque-Bera (JB):                8.523
+Skew:                          -0.730   Prob(JB):                       0.0141
+Kurtosis:                       4.371   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.158
+Model:                                   OLS   Adj. R-squared:                  0.043
+Method:                        Least Squares   F-statistic:                     1.375
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.246
+Time:                               12:05:37   Log-Likelihood:                -156.82
+No. Observations:                         51   AIC:                             327.6
+Df Residuals:                             44   BIC:                             341.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.7879      0.852      0.925      0.360      -0.929       2.504
+Mkt-RF        -0.2834      0.174     -1.627      0.111      -0.634       0.068
+SMB            0.8124      0.379      2.145      0.038       0.049       1.576
+HML           -0.5157      0.275     -1.876      0.067      -1.070       0.038
+RMW            0.7816      0.396      1.974      0.055      -0.016       1.579
+CMA            0.5825      0.415      1.403      0.168      -0.255       1.420
+Mom           -0.0086      0.225     -0.038      0.970      -0.462       0.445
+==============================================================================
+Omnibus:                        9.107   Durbin-Watson:                   2.097
+Prob(Omnibus):                  0.011   Jarque-Bera (JB):                9.140
+Skew:                          -0.747   Prob(JB):                       0.0104
+Kurtosis:                       4.439   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.140
+Model:                                   OLS   Adj. R-squared:                  0.023
+Method:                        Least Squares   F-statistic:                     1.197
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.326
+Time:                               12:05:37   Log-Likelihood:                -177.39
+No. Observations:                         51   AIC:                             368.8
+Df Residuals:                             44   BIC:                             382.3
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.3883      1.275      1.089      0.282      -1.181       3.958
+Mkt-RF        -0.2959      0.261     -1.135      0.263      -0.821       0.230
+SMB            1.2390      0.567      2.185      0.034       0.096       2.382
+HML           -0.7860      0.412     -1.910      0.063      -1.615       0.043
+RMW            0.5731      0.593      0.967      0.339      -0.621       1.767
+CMA            0.9778      0.622      1.573      0.123      -0.275       2.231
+Mom           -0.1399      0.337     -0.415      0.680      -0.819       0.539
+==============================================================================
+Omnibus:                       10.182   Durbin-Watson:                   2.271
+Prob(Omnibus):                  0.006   Jarque-Bera (JB):               17.068
+Skew:                          -0.507   Prob(JB):                     0.000197
+Kurtosis:                       5.646   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 12:05:38.355825
+
+
+Regression results for quintile 1 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.668
+Model:                                   OLS   Adj. R-squared:                  0.617
+Method:                        Least Squares   F-statistic:                     13.09
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.67e-08
+Time:                               12:05:38   Log-Likelihood:                -165.98
+No. Observations:                         46   AIC:                             346.0
+Df Residuals:                             39   BIC:                             358.8
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          4.4180      2.464      1.793      0.081      -0.565       9.401
+Mkt-RF_6M      0.5549      0.201      2.755      0.009       0.148       0.962
+SMB_6M         0.4765      0.336      1.417      0.165      -0.204       1.157
+HML_6M        -0.7327      0.242     -3.029      0.004      -1.222      -0.243
+RMW_6M         0.4793      0.476      1.007      0.320      -0.484       1.442
+CMA_6M         0.1032      0.366      0.282      0.779      -0.637       0.843
+Mom_6M        -0.0086      0.268     -0.032      0.975      -0.551       0.534
+==============================================================================
+Omnibus:                        1.036   Durbin-Watson:                   1.898
+Prob(Omnibus):                  0.596   Jarque-Bera (JB):                0.898
+Skew:                           0.330   Prob(JB):                        0.638
+Kurtosis:                       2.821   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.651
+Model:                                   OLS   Adj. R-squared:                  0.597
+Method:                        Least Squares   F-statistic:                     12.11
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.21e-07
+Time:                               12:05:38   Log-Likelihood:                -149.96
+No. Observations:                         46   AIC:                             313.9
+Df Residuals:                             39   BIC:                             326.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          2.0623      1.739      1.186      0.243      -1.456       5.580
+Mkt-RF_6M      0.4692      0.142      3.301      0.002       0.182       0.757
+SMB_6M         0.5782      0.237      2.435      0.020       0.098       1.059
+HML_6M        -0.3279      0.171     -1.920      0.062      -0.673       0.017
+RMW_6M         0.4357      0.336      1.296      0.203      -0.244       1.116
+CMA_6M         0.2216      0.258      0.858      0.396      -0.301       0.744
+Mom_6M        -0.0262      0.189     -0.138      0.891      -0.409       0.357
+==============================================================================
+Omnibus:                        0.012   Durbin-Watson:                   2.136
+Prob(Omnibus):                  0.994   Jarque-Bera (JB):                0.174
+Skew:                          -0.009   Prob(JB):                        0.917
+Kurtosis:                       2.699   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.650
+Model:                                   OLS   Adj. R-squared:                  0.596
+Method:                        Least Squares   F-statistic:                     12.06
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.28e-07
+Time:                               12:05:38   Log-Likelihood:                -150.96
+No. Observations:                         46   AIC:                             315.9
+Df Residuals:                             39   BIC:                             328.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.5741      1.777      0.323      0.748      -3.021       4.169
+Mkt-RF_6M      0.5233      0.145      3.603      0.001       0.230       0.817
+SMB_6M         0.6993      0.243      2.882      0.006       0.209       1.190
+HML_6M        -0.2360      0.174     -1.353      0.184      -0.589       0.117
+RMW_6M         0.6011      0.343      1.750      0.088      -0.094       1.296
+CMA_6M         0.2909      0.264      1.102      0.277      -0.243       0.825
+Mom_6M         0.1169      0.193      0.604      0.549      -0.274       0.508
+==============================================================================
+Omnibus:                        2.977   Durbin-Watson:                   2.155
+Prob(Omnibus):                  0.226   Jarque-Bera (JB):                2.719
+Skew:                          -0.583   Prob(JB):                        0.257
+Kurtosis:                       2.759   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.707
+Model:                                   OLS   Adj. R-squared:                  0.662
+Method:                        Least Squares   F-statistic:                     15.68
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.64e-09
+Time:                               12:05:38   Log-Likelihood:                -156.88
+No. Observations:                         46   AIC:                             327.8
+Df Residuals:                             39   BIC:                             340.6
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -1.5266      2.021     -0.755      0.455      -5.615       2.562
+Mkt-RF_6M      0.5761      0.165      3.487      0.001       0.242       0.910
+SMB_6M         1.1051      0.276      4.005      0.000       0.547       1.663
+HML_6M        -0.2952      0.198     -1.488      0.145      -0.697       0.106
+RMW_6M         0.7344      0.391      1.880      0.068      -0.056       1.525
+CMA_6M         0.6645      0.300      2.213      0.033       0.057       1.272
+Mom_6M         0.1723      0.220      0.784      0.438      -0.272       0.617
+==============================================================================
+Omnibus:                        1.415   Durbin-Watson:                   2.175
+Prob(Omnibus):                  0.493   Jarque-Bera (JB):                1.372
+Skew:                          -0.386   Prob(JB):                        0.504
+Kurtosis:                       2.655   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.833
+Model:                                   OLS   Adj. R-squared:                  0.807
+Method:                        Least Squares   F-statistic:                     32.37
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.11e-13
+Time:                               12:05:38   Log-Likelihood:                -166.59
+No. Observations:                         46   AIC:                             347.2
+Df Residuals:                             39   BIC:                             360.0
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2314      2.497     -0.894      0.377      -7.281       2.818
+Mkt-RF_6M      0.9366      0.204      4.590      0.000       0.524       1.349
+SMB_6M         1.9077      0.341      5.597      0.000       1.218       2.597
+HML_6M        -0.5063      0.245     -2.066      0.046      -1.002      -0.011
+RMW_6M         0.9381      0.483      1.944      0.059      -0.038       1.914
+CMA_6M         1.1595      0.371      3.127      0.003       0.409       1.909
+Mom_6M         0.1576      0.272      0.580      0.565      -0.392       0.707
+==============================================================================
+Omnibus:                        0.023   Durbin-Watson:                   2.574
+Prob(Omnibus):                  0.989   Jarque-Bera (JB):                0.153
+Skew:                          -0.047   Prob(JB):                        0.926
+Kurtosis:                       2.734   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 12:05:39.163411
+
+
+Regression results for quintile 1 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.861
+Model:                                    OLS   Adj. R-squared:                  0.836
+Method:                         Least Squares   F-statistic:                     34.04
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           8.94e-13
+Time:                                12:05:39   Log-Likelihood:                -151.52
+No. Observations:                          40   AIC:                             317.0
+Df Residuals:                              33   BIC:                             328.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         10.8778      5.815      1.870      0.070      -0.954      22.709
+Mkt-RF_12M     0.6444      0.226      2.854      0.007       0.185       1.104
+SMB_12M        0.2847      0.357      0.797      0.431      -0.442       1.012
+HML_12M       -1.1853      0.348     -3.404      0.002      -1.894      -0.477
+RMW_12M        0.0899      0.582      0.155      0.878      -1.093       1.273
+CMA_12M        0.9121      0.687      1.328      0.193      -0.485       2.309
+Mom_12M       -0.5954      0.511     -1.165      0.252      -1.635       0.444
+==============================================================================
+Omnibus:                       12.000   Durbin-Watson:                   2.026
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               13.592
+Skew:                           0.960   Prob(JB):                      0.00112
+Kurtosis:                       5.114   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.797
+Model:                                    OLS   Adj. R-squared:                  0.760
+Method:                         Least Squares   F-statistic:                     21.55
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           4.07e-10
+Time:                                12:05:39   Log-Likelihood:                -139.03
+No. Observations:                          40   AIC:                             292.1
+Df Residuals:                              33   BIC:                             303.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          7.7608      4.256      1.824      0.077      -0.898      16.419
+Mkt-RF_12M     0.4428      0.165      2.680      0.011       0.107       0.779
+SMB_12M        0.1283      0.261      0.490      0.627      -0.404       0.660
+HML_12M       -0.4363      0.255     -1.712      0.096      -0.955       0.082
+RMW_12M        0.1406      0.426      0.330      0.743      -0.725       1.007
+CMA_12M        0.4573      0.502      0.910      0.369      -0.565       1.480
+Mom_12M       -0.6537      0.374     -1.748      0.090      -1.415       0.107
+==============================================================================
+Omnibus:                        1.995   Durbin-Watson:                   2.179
+Prob(Omnibus):                  0.369   Jarque-Bera (JB):                1.071
+Skew:                           0.345   Prob(JB):                        0.585
+Kurtosis:                       3.408   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.849
+Model:                                    OLS   Adj. R-squared:                  0.821
+Method:                         Least Squares   F-statistic:                     30.84
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           3.51e-12
+Time:                                12:05:39   Log-Likelihood:                -132.27
+No. Observations:                          40   AIC:                             278.5
+Df Residuals:                              33   BIC:                             290.4
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.8743      3.594      0.522      0.605      -5.438       9.186
+Mkt-RF_12M     0.7004      0.140      5.020      0.000       0.417       0.984
+SMB_12M        0.3764      0.221      1.705      0.098      -0.073       0.826
+HML_12M       -0.0080      0.215     -0.037      0.971      -0.446       0.430
+RMW_12M        0.1751      0.359      0.487      0.629      -0.556       0.906
+CMA_12M        0.1277      0.424      0.301      0.765      -0.736       0.991
+Mom_12M        0.0575      0.316      0.182      0.857      -0.585       0.700
+==============================================================================
+Omnibus:                        4.087   Durbin-Watson:                   2.241
+Prob(Omnibus):                  0.130   Jarque-Bera (JB):                1.822
+Skew:                           0.142   Prob(JB):                        0.402
+Kurtosis:                       1.994   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.857
+Model:                                    OLS   Adj. R-squared:                  0.831
+Method:                         Least Squares   F-statistic:                     32.87
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.46e-12
+Time:                                12:05:39   Log-Likelihood:                -139.73
+No. Observations:                          40   AIC:                             293.5
+Df Residuals:                              33   BIC:                             305.3
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2083      4.331     -0.510      0.614     -11.020       6.603
+Mkt-RF_12M     0.6546      0.168      3.893      0.000       0.312       0.997
+SMB_12M        0.8502      0.266      3.195      0.003       0.309       1.392
+HML_12M       -0.3088      0.259     -1.191      0.242      -0.836       0.219
+RMW_12M        0.3503      0.433      0.809      0.424      -0.531       1.232
+CMA_12M        0.9233      0.511      1.806      0.080      -0.117       1.963
+Mom_12M       -0.2003      0.381     -0.526      0.602      -0.975       0.574
+==============================================================================
+Omnibus:                        1.369   Durbin-Watson:                   2.159
+Prob(Omnibus):                  0.504   Jarque-Bera (JB):                1.154
+Skew:                          -0.219   Prob(JB):                        0.562
+Kurtosis:                       2.292   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.876
+Model:                                    OLS   Adj. R-squared:                  0.853
+Method:                         Least Squares   F-statistic:                     38.73
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.45e-13
+Time:                                12:05:39   Log-Likelihood:                -158.69
+No. Observations:                          40   AIC:                             331.4
+Df Residuals:                              33   BIC:                             343.2
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.7364      6.957      0.250      0.804     -12.417      15.890
+Mkt-RF_12M     1.1865      0.270      4.393      0.000       0.637       1.736
+SMB_12M        1.4444      0.427      3.379      0.002       0.575       2.314
+HML_12M       -0.0202      0.417     -0.049      0.962      -0.868       0.827
+RMW_12M        0.3296      0.696      0.474      0.639      -1.086       1.745
+CMA_12M        0.6377      0.821      0.776      0.443      -1.033       2.309
+Mom_12M        0.1247      0.611      0.204      0.840      -1.119       1.368
+==============================================================================
+Omnibus:                        8.918   Durbin-Watson:                   2.513
+Prob(Omnibus):                  0.012   Jarque-Bera (JB):                8.604
+Skew:                           0.793   Prob(JB):                       0.0135
+Kurtosis:                       4.626   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:51:24.005945
+
+
+Regression results for quintile 1 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.150
+Model:                                   OLS   Adj. R-squared:                  0.035
+Method:                        Least Squares   F-statistic:                     1.298
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.278
+Time:                               14:51:24   Log-Likelihood:                -157.70
+No. Observations:                         51   AIC:                             329.4
+Df Residuals:                             44   BIC:                             342.9
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9757      0.867      1.126      0.266      -0.771       2.722
+Mkt-RF        -0.2853      0.177     -1.610      0.115      -0.642       0.072
+SMB            0.8218      0.385      2.132      0.039       0.045       1.599
+HML           -0.5337      0.280     -1.908      0.063      -1.098       0.030
+RMW            0.5716      0.403      1.419      0.163      -0.240       1.383
+CMA            0.3872      0.423      0.916      0.365      -0.464       1.239
+Mom            0.0780      0.229      0.340      0.735      -0.384       0.540
+==============================================================================
+Omnibus:                        4.166   Durbin-Watson:                   2.056
+Prob(Omnibus):                  0.125   Jarque-Bera (JB):                3.331
+Skew:                          -0.615   Prob(JB):                        0.189
+Kurtosis:                       3.237   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.147
+Model:                                   OLS   Adj. R-squared:                  0.030
+Method:                        Least Squares   F-statistic:                     1.262
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.294
+Time:                               14:51:24   Log-Likelihood:                -150.34
+No. Observations:                         51   AIC:                             314.7
+Df Residuals:                             44   BIC:                             328.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9643      0.750      1.285      0.205      -0.548       2.476
+Mkt-RF        -0.2291      0.153     -1.494      0.142      -0.538       0.080
+SMB            0.8102      0.334      2.428      0.019       0.138       1.483
+HML           -0.3990      0.242     -1.648      0.107      -0.887       0.089
+RMW            0.6954      0.349      1.994      0.052      -0.007       1.398
+CMA            0.3321      0.366      0.908      0.369      -0.405       1.069
+Mom            0.0210      0.198      0.106      0.916      -0.379       0.421
+==============================================================================
+Omnibus:                        3.151   Durbin-Watson:                   2.085
+Prob(Omnibus):                  0.207   Jarque-Bera (JB):                2.135
+Skew:                          -0.390   Prob(JB):                        0.344
+Kurtosis:                       3.630   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.166
+Model:                                   OLS   Adj. R-squared:                  0.052
+Method:                        Least Squares   F-statistic:                     1.460
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.214
+Time:                               14:51:24   Log-Likelihood:                -150.50
+No. Observations:                         51   AIC:                             315.0
+Df Residuals:                             44   BIC:                             328.5
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.6698      0.753      0.890      0.378      -0.847       2.186
+Mkt-RF        -0.2153      0.154     -1.399      0.169      -0.525       0.095
+SMB            0.8639      0.335      2.581      0.013       0.189       1.538
+HML           -0.3478      0.243     -1.432      0.159      -0.837       0.142
+RMW            0.7348      0.350      2.101      0.041       0.030       1.440
+CMA            0.3803      0.367      1.036      0.306      -0.359       1.120
+Mom            0.1116      0.199      0.561      0.578      -0.289       0.513
+==============================================================================
+Omnibus:                        8.702   Durbin-Watson:                   2.071
+Prob(Omnibus):                  0.013   Jarque-Bera (JB):                8.523
+Skew:                          -0.730   Prob(JB):                       0.0141
+Kurtosis:                       4.371   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.158
+Model:                                   OLS   Adj. R-squared:                  0.043
+Method:                        Least Squares   F-statistic:                     1.375
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.246
+Time:                               14:51:24   Log-Likelihood:                -156.82
+No. Observations:                         51   AIC:                             327.6
+Df Residuals:                             44   BIC:                             341.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.7879      0.852      0.925      0.360      -0.929       2.504
+Mkt-RF        -0.2834      0.174     -1.627      0.111      -0.634       0.068
+SMB            0.8124      0.379      2.145      0.038       0.049       1.576
+HML           -0.5157      0.275     -1.876      0.067      -1.070       0.038
+RMW            0.7816      0.396      1.974      0.055      -0.016       1.579
+CMA            0.5825      0.415      1.403      0.168      -0.255       1.420
+Mom           -0.0086      0.225     -0.038      0.970      -0.462       0.445
+==============================================================================
+Omnibus:                        9.107   Durbin-Watson:                   2.097
+Prob(Omnibus):                  0.011   Jarque-Bera (JB):                9.140
+Skew:                          -0.747   Prob(JB):                       0.0104
+Kurtosis:                       4.439   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.140
+Model:                                   OLS   Adj. R-squared:                  0.023
+Method:                        Least Squares   F-statistic:                     1.197
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.326
+Time:                               14:51:24   Log-Likelihood:                -177.39
+No. Observations:                         51   AIC:                             368.8
+Df Residuals:                             44   BIC:                             382.3
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.3883      1.275      1.089      0.282      -1.181       3.958
+Mkt-RF        -0.2959      0.261     -1.135      0.263      -0.821       0.230
+SMB            1.2390      0.567      2.185      0.034       0.096       2.382
+HML           -0.7860      0.412     -1.910      0.063      -1.615       0.043
+RMW            0.5731      0.593      0.967      0.339      -0.621       1.767
+CMA            0.9778      0.622      1.573      0.123      -0.275       2.231
+Mom           -0.1399      0.337     -0.415      0.680      -0.819       0.539
+==============================================================================
+Omnibus:                       10.182   Durbin-Watson:                   2.271
+Prob(Omnibus):                  0.006   Jarque-Bera (JB):               17.068
+Skew:                          -0.507   Prob(JB):                     0.000197
+Kurtosis:                       5.646   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:51:24.826058
+
+
+Regression results for quintile 1 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.668
+Model:                                   OLS   Adj. R-squared:                  0.617
+Method:                        Least Squares   F-statistic:                     13.09
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.67e-08
+Time:                               14:51:24   Log-Likelihood:                -165.98
+No. Observations:                         46   AIC:                             346.0
+Df Residuals:                             39   BIC:                             358.8
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          4.4180      2.464      1.793      0.081      -0.565       9.401
+Mkt-RF_6M      0.5549      0.201      2.755      0.009       0.148       0.962
+SMB_6M         0.4765      0.336      1.417      0.165      -0.204       1.157
+HML_6M        -0.7327      0.242     -3.029      0.004      -1.222      -0.243
+RMW_6M         0.4793      0.476      1.007      0.320      -0.484       1.442
+CMA_6M         0.1032      0.366      0.282      0.779      -0.637       0.843
+Mom_6M        -0.0086      0.268     -0.032      0.975      -0.551       0.534
+==============================================================================
+Omnibus:                        1.036   Durbin-Watson:                   1.898
+Prob(Omnibus):                  0.596   Jarque-Bera (JB):                0.898
+Skew:                           0.330   Prob(JB):                        0.638
+Kurtosis:                       2.821   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.651
+Model:                                   OLS   Adj. R-squared:                  0.597
+Method:                        Least Squares   F-statistic:                     12.11
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.21e-07
+Time:                               14:51:24   Log-Likelihood:                -149.96
+No. Observations:                         46   AIC:                             313.9
+Df Residuals:                             39   BIC:                             326.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          2.0623      1.739      1.186      0.243      -1.456       5.580
+Mkt-RF_6M      0.4692      0.142      3.301      0.002       0.182       0.757
+SMB_6M         0.5782      0.237      2.435      0.020       0.098       1.059
+HML_6M        -0.3279      0.171     -1.920      0.062      -0.673       0.017
+RMW_6M         0.4357      0.336      1.296      0.203      -0.244       1.116
+CMA_6M         0.2216      0.258      0.858      0.396      -0.301       0.744
+Mom_6M        -0.0262      0.189     -0.138      0.891      -0.409       0.357
+==============================================================================
+Omnibus:                        0.012   Durbin-Watson:                   2.136
+Prob(Omnibus):                  0.994   Jarque-Bera (JB):                0.174
+Skew:                          -0.009   Prob(JB):                        0.917
+Kurtosis:                       2.699   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.650
+Model:                                   OLS   Adj. R-squared:                  0.596
+Method:                        Least Squares   F-statistic:                     12.06
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.28e-07
+Time:                               14:51:24   Log-Likelihood:                -150.96
+No. Observations:                         46   AIC:                             315.9
+Df Residuals:                             39   BIC:                             328.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.5741      1.777      0.323      0.748      -3.021       4.169
+Mkt-RF_6M      0.5233      0.145      3.603      0.001       0.230       0.817
+SMB_6M         0.6993      0.243      2.882      0.006       0.209       1.190
+HML_6M        -0.2360      0.174     -1.353      0.184      -0.589       0.117
+RMW_6M         0.6011      0.343      1.750      0.088      -0.094       1.296
+CMA_6M         0.2909      0.264      1.102      0.277      -0.243       0.825
+Mom_6M         0.1169      0.193      0.604      0.549      -0.274       0.508
+==============================================================================
+Omnibus:                        2.977   Durbin-Watson:                   2.155
+Prob(Omnibus):                  0.226   Jarque-Bera (JB):                2.719
+Skew:                          -0.583   Prob(JB):                        0.257
+Kurtosis:                       2.759   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.707
+Model:                                   OLS   Adj. R-squared:                  0.662
+Method:                        Least Squares   F-statistic:                     15.68
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.64e-09
+Time:                               14:51:24   Log-Likelihood:                -156.88
+No. Observations:                         46   AIC:                             327.8
+Df Residuals:                             39   BIC:                             340.6
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -1.5266      2.021     -0.755      0.455      -5.615       2.562
+Mkt-RF_6M      0.5761      0.165      3.487      0.001       0.242       0.910
+SMB_6M         1.1051      0.276      4.005      0.000       0.547       1.663
+HML_6M        -0.2952      0.198     -1.488      0.145      -0.697       0.106
+RMW_6M         0.7344      0.391      1.880      0.068      -0.056       1.525
+CMA_6M         0.6645      0.300      2.213      0.033       0.057       1.272
+Mom_6M         0.1723      0.220      0.784      0.438      -0.272       0.617
+==============================================================================
+Omnibus:                        1.415   Durbin-Watson:                   2.175
+Prob(Omnibus):                  0.493   Jarque-Bera (JB):                1.372
+Skew:                          -0.386   Prob(JB):                        0.504
+Kurtosis:                       2.655   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.833
+Model:                                   OLS   Adj. R-squared:                  0.807
+Method:                        Least Squares   F-statistic:                     32.37
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.11e-13
+Time:                               14:51:24   Log-Likelihood:                -166.59
+No. Observations:                         46   AIC:                             347.2
+Df Residuals:                             39   BIC:                             360.0
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2314      2.497     -0.894      0.377      -7.281       2.818
+Mkt-RF_6M      0.9366      0.204      4.590      0.000       0.524       1.349
+SMB_6M         1.9077      0.341      5.597      0.000       1.218       2.597
+HML_6M        -0.5063      0.245     -2.066      0.046      -1.002      -0.011
+RMW_6M         0.9381      0.483      1.944      0.059      -0.038       1.914
+CMA_6M         1.1595      0.371      3.127      0.003       0.409       1.909
+Mom_6M         0.1576      0.272      0.580      0.565      -0.392       0.707
+==============================================================================
+Omnibus:                        0.023   Durbin-Watson:                   2.574
+Prob(Omnibus):                  0.989   Jarque-Bera (JB):                0.153
+Skew:                          -0.047   Prob(JB):                        0.926
+Kurtosis:                       2.734   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:51:25.689177
+
+
+Regression results for quintile 1 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.861
+Model:                                    OLS   Adj. R-squared:                  0.836
+Method:                         Least Squares   F-statistic:                     34.04
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           8.94e-13
+Time:                                14:51:25   Log-Likelihood:                -151.52
+No. Observations:                          40   AIC:                             317.0
+Df Residuals:                              33   BIC:                             328.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         10.8778      5.815      1.870      0.070      -0.954      22.709
+Mkt-RF_12M     0.6444      0.226      2.854      0.007       0.185       1.104
+SMB_12M        0.2847      0.357      0.797      0.431      -0.442       1.012
+HML_12M       -1.1853      0.348     -3.404      0.002      -1.894      -0.477
+RMW_12M        0.0899      0.582      0.155      0.878      -1.093       1.273
+CMA_12M        0.9121      0.687      1.328      0.193      -0.485       2.309
+Mom_12M       -0.5954      0.511     -1.165      0.252      -1.635       0.444
+==============================================================================
+Omnibus:                       12.000   Durbin-Watson:                   2.026
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               13.592
+Skew:                           0.960   Prob(JB):                      0.00112
+Kurtosis:                       5.114   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.797
+Model:                                    OLS   Adj. R-squared:                  0.760
+Method:                         Least Squares   F-statistic:                     21.55
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           4.07e-10
+Time:                                14:51:25   Log-Likelihood:                -139.03
+No. Observations:                          40   AIC:                             292.1
+Df Residuals:                              33   BIC:                             303.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          7.7608      4.256      1.824      0.077      -0.898      16.419
+Mkt-RF_12M     0.4428      0.165      2.680      0.011       0.107       0.779
+SMB_12M        0.1283      0.261      0.490      0.627      -0.404       0.660
+HML_12M       -0.4363      0.255     -1.712      0.096      -0.955       0.082
+RMW_12M        0.1406      0.426      0.330      0.743      -0.725       1.007
+CMA_12M        0.4573      0.502      0.910      0.369      -0.565       1.480
+Mom_12M       -0.6537      0.374     -1.748      0.090      -1.415       0.107
+==============================================================================
+Omnibus:                        1.995   Durbin-Watson:                   2.179
+Prob(Omnibus):                  0.369   Jarque-Bera (JB):                1.071
+Skew:                           0.345   Prob(JB):                        0.585
+Kurtosis:                       3.408   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.849
+Model:                                    OLS   Adj. R-squared:                  0.821
+Method:                         Least Squares   F-statistic:                     30.84
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           3.51e-12
+Time:                                14:51:25   Log-Likelihood:                -132.27
+No. Observations:                          40   AIC:                             278.5
+Df Residuals:                              33   BIC:                             290.4
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.8743      3.594      0.522      0.605      -5.438       9.186
+Mkt-RF_12M     0.7004      0.140      5.020      0.000       0.417       0.984
+SMB_12M        0.3764      0.221      1.705      0.098      -0.073       0.826
+HML_12M       -0.0080      0.215     -0.037      0.971      -0.446       0.430
+RMW_12M        0.1751      0.359      0.487      0.629      -0.556       0.906
+CMA_12M        0.1277      0.424      0.301      0.765      -0.736       0.991
+Mom_12M        0.0575      0.316      0.182      0.857      -0.585       0.700
+==============================================================================
+Omnibus:                        4.087   Durbin-Watson:                   2.241
+Prob(Omnibus):                  0.130   Jarque-Bera (JB):                1.822
+Skew:                           0.142   Prob(JB):                        0.402
+Kurtosis:                       1.994   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.857
+Model:                                    OLS   Adj. R-squared:                  0.831
+Method:                         Least Squares   F-statistic:                     32.87
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.46e-12
+Time:                                14:51:25   Log-Likelihood:                -139.73
+No. Observations:                          40   AIC:                             293.5
+Df Residuals:                              33   BIC:                             305.3
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2083      4.331     -0.510      0.614     -11.020       6.603
+Mkt-RF_12M     0.6546      0.168      3.893      0.000       0.312       0.997
+SMB_12M        0.8502      0.266      3.195      0.003       0.309       1.392
+HML_12M       -0.3088      0.259     -1.191      0.242      -0.836       0.219
+RMW_12M        0.3503      0.433      0.809      0.424      -0.531       1.232
+CMA_12M        0.9233      0.511      1.806      0.080      -0.117       1.963
+Mom_12M       -0.2003      0.381     -0.526      0.602      -0.975       0.574
+==============================================================================
+Omnibus:                        1.369   Durbin-Watson:                   2.159
+Prob(Omnibus):                  0.504   Jarque-Bera (JB):                1.154
+Skew:                          -0.219   Prob(JB):                        0.562
+Kurtosis:                       2.292   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.876
+Model:                                    OLS   Adj. R-squared:                  0.853
+Method:                         Least Squares   F-statistic:                     38.73
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.45e-13
+Time:                                14:51:25   Log-Likelihood:                -158.69
+No. Observations:                          40   AIC:                             331.4
+Df Residuals:                              33   BIC:                             343.2
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.7364      6.957      0.250      0.804     -12.417      15.890
+Mkt-RF_12M     1.1865      0.270      4.393      0.000       0.637       1.736
+SMB_12M        1.4444      0.427      3.379      0.002       0.575       2.314
+HML_12M       -0.0202      0.417     -0.049      0.962      -0.868       0.827
+RMW_12M        0.3296      0.696      0.474      0.639      -1.086       1.745
+CMA_12M        0.6377      0.821      0.776      0.443      -1.033       2.309
+Mom_12M        0.1247      0.611      0.204      0.840      -1.119       1.368
+==============================================================================
+Omnibus:                        8.918   Durbin-Watson:                   2.513
+Prob(Omnibus):                  0.012   Jarque-Bera (JB):                8.604
+Skew:                           0.793   Prob(JB):                       0.0135
+Kurtosis:                       4.626   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 15:08:22.796317
+
+
+Regression results for quintile 1 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.150
+Model:                                   OLS   Adj. R-squared:                  0.035
+Method:                        Least Squares   F-statistic:                     1.298
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.278
+Time:                               15:08:22   Log-Likelihood:                -157.70
+No. Observations:                         51   AIC:                             329.4
+Df Residuals:                             44   BIC:                             342.9
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9757      0.867      1.126      0.266      -0.771       2.722
+Mkt-RF        -0.2853      0.177     -1.610      0.115      -0.642       0.072
+SMB            0.8218      0.385      2.132      0.039       0.045       1.599
+HML           -0.5337      0.280     -1.908      0.063      -1.098       0.030
+RMW            0.5716      0.403      1.419      0.163      -0.240       1.383
+CMA            0.3872      0.423      0.916      0.365      -0.464       1.239
+Mom            0.0780      0.229      0.340      0.735      -0.384       0.540
+==============================================================================
+Omnibus:                        4.166   Durbin-Watson:                   2.056
+Prob(Omnibus):                  0.125   Jarque-Bera (JB):                3.331
+Skew:                          -0.615   Prob(JB):                        0.189
+Kurtosis:                       3.237   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.147
+Model:                                   OLS   Adj. R-squared:                  0.030
+Method:                        Least Squares   F-statistic:                     1.262
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.294
+Time:                               15:08:22   Log-Likelihood:                -150.34
+No. Observations:                         51   AIC:                             314.7
+Df Residuals:                             44   BIC:                             328.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.9643      0.750      1.285      0.205      -0.548       2.476
+Mkt-RF        -0.2291      0.153     -1.494      0.142      -0.538       0.080
+SMB            0.8102      0.334      2.428      0.019       0.138       1.483
+HML           -0.3990      0.242     -1.648      0.107      -0.887       0.089
+RMW            0.6954      0.349      1.994      0.052      -0.007       1.398
+CMA            0.3321      0.366      0.908      0.369      -0.405       1.069
+Mom            0.0210      0.198      0.106      0.916      -0.379       0.421
+==============================================================================
+Omnibus:                        3.151   Durbin-Watson:                   2.085
+Prob(Omnibus):                  0.207   Jarque-Bera (JB):                2.135
+Skew:                          -0.390   Prob(JB):                        0.344
+Kurtosis:                       3.630   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.166
+Model:                                   OLS   Adj. R-squared:                  0.052
+Method:                        Least Squares   F-statistic:                     1.460
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.214
+Time:                               15:08:22   Log-Likelihood:                -150.50
+No. Observations:                         51   AIC:                             315.0
+Df Residuals:                             44   BIC:                             328.5
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.6698      0.753      0.890      0.378      -0.847       2.186
+Mkt-RF        -0.2153      0.154     -1.399      0.169      -0.525       0.095
+SMB            0.8639      0.335      2.581      0.013       0.189       1.538
+HML           -0.3478      0.243     -1.432      0.159      -0.837       0.142
+RMW            0.7348      0.350      2.101      0.041       0.030       1.440
+CMA            0.3803      0.367      1.036      0.306      -0.359       1.120
+Mom            0.1116      0.199      0.561      0.578      -0.289       0.513
+==============================================================================
+Omnibus:                        8.702   Durbin-Watson:                   2.071
+Prob(Omnibus):                  0.013   Jarque-Bera (JB):                8.523
+Skew:                          -0.730   Prob(JB):                       0.0141
+Kurtosis:                       4.371   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.158
+Model:                                   OLS   Adj. R-squared:                  0.043
+Method:                        Least Squares   F-statistic:                     1.375
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.246
+Time:                               15:08:22   Log-Likelihood:                -156.82
+No. Observations:                         51   AIC:                             327.6
+Df Residuals:                             44   BIC:                             341.2
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.7879      0.852      0.925      0.360      -0.929       2.504
+Mkt-RF        -0.2834      0.174     -1.627      0.111      -0.634       0.068
+SMB            0.8124      0.379      2.145      0.038       0.049       1.576
+HML           -0.5157      0.275     -1.876      0.067      -1.070       0.038
+RMW            0.7816      0.396      1.974      0.055      -0.016       1.579
+CMA            0.5825      0.415      1.403      0.168      -0.255       1.420
+Mom           -0.0086      0.225     -0.038      0.970      -0.462       0.445
+==============================================================================
+Omnibus:                        9.107   Durbin-Watson:                   2.097
+Prob(Omnibus):                  0.011   Jarque-Bera (JB):                9.140
+Skew:                          -0.747   Prob(JB):                       0.0104
+Kurtosis:                       4.439   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (1M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 1M Excess Return (%)   R-squared:                       0.140
+Model:                                   OLS   Adj. R-squared:                  0.023
+Method:                        Least Squares   F-statistic:                     1.197
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):              0.326
+Time:                               15:08:22   Log-Likelihood:                -177.39
+No. Observations:                         51   AIC:                             368.8
+Df Residuals:                             44   BIC:                             382.3
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.3883      1.275      1.089      0.282      -1.181       3.958
+Mkt-RF        -0.2959      0.261     -1.135      0.263      -0.821       0.230
+SMB            1.2390      0.567      2.185      0.034       0.096       2.382
+HML           -0.7860      0.412     -1.910      0.063      -1.615       0.043
+RMW            0.5731      0.593      0.967      0.339      -0.621       1.767
+CMA            0.9778      0.622      1.573      0.123      -0.275       2.231
+Mom           -0.1399      0.337     -0.415      0.680      -0.819       0.539
+==============================================================================
+Omnibus:                       10.182   Durbin-Watson:                   2.271
+Prob(Omnibus):                  0.006   Jarque-Bera (JB):               17.068
+Skew:                          -0.507   Prob(JB):                     0.000197
+Kurtosis:                       5.646   Cond. No.                         7.57
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 15:08:23.636533
+
+
+Regression results for quintile 1 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.668
+Model:                                   OLS   Adj. R-squared:                  0.617
+Method:                        Least Squares   F-statistic:                     13.09
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.67e-08
+Time:                               15:08:23   Log-Likelihood:                -165.98
+No. Observations:                         46   AIC:                             346.0
+Df Residuals:                             39   BIC:                             358.8
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          4.4180      2.464      1.793      0.081      -0.565       9.401
+Mkt-RF_6M      0.5549      0.201      2.755      0.009       0.148       0.962
+SMB_6M         0.4765      0.336      1.417      0.165      -0.204       1.157
+HML_6M        -0.7327      0.242     -3.029      0.004      -1.222      -0.243
+RMW_6M         0.4793      0.476      1.007      0.320      -0.484       1.442
+CMA_6M         0.1032      0.366      0.282      0.779      -0.637       0.843
+Mom_6M        -0.0086      0.268     -0.032      0.975      -0.551       0.534
+==============================================================================
+Omnibus:                        1.036   Durbin-Watson:                   1.898
+Prob(Omnibus):                  0.596   Jarque-Bera (JB):                0.898
+Skew:                           0.330   Prob(JB):                        0.638
+Kurtosis:                       2.821   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.651
+Model:                                   OLS   Adj. R-squared:                  0.597
+Method:                        Least Squares   F-statistic:                     12.11
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.21e-07
+Time:                               15:08:23   Log-Likelihood:                -149.96
+No. Observations:                         46   AIC:                             313.9
+Df Residuals:                             39   BIC:                             326.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          2.0623      1.739      1.186      0.243      -1.456       5.580
+Mkt-RF_6M      0.4692      0.142      3.301      0.002       0.182       0.757
+SMB_6M         0.5782      0.237      2.435      0.020       0.098       1.059
+HML_6M        -0.3279      0.171     -1.920      0.062      -0.673       0.017
+RMW_6M         0.4357      0.336      1.296      0.203      -0.244       1.116
+CMA_6M         0.2216      0.258      0.858      0.396      -0.301       0.744
+Mom_6M        -0.0262      0.189     -0.138      0.891      -0.409       0.357
+==============================================================================
+Omnibus:                        0.012   Durbin-Watson:                   2.136
+Prob(Omnibus):                  0.994   Jarque-Bera (JB):                0.174
+Skew:                          -0.009   Prob(JB):                        0.917
+Kurtosis:                       2.699   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.650
+Model:                                   OLS   Adj. R-squared:                  0.596
+Method:                        Least Squares   F-statistic:                     12.06
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.28e-07
+Time:                               15:08:23   Log-Likelihood:                -150.96
+No. Observations:                         46   AIC:                             315.9
+Df Residuals:                             39   BIC:                             328.7
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.5741      1.777      0.323      0.748      -3.021       4.169
+Mkt-RF_6M      0.5233      0.145      3.603      0.001       0.230       0.817
+SMB_6M         0.6993      0.243      2.882      0.006       0.209       1.190
+HML_6M        -0.2360      0.174     -1.353      0.184      -0.589       0.117
+RMW_6M         0.6011      0.343      1.750      0.088      -0.094       1.296
+CMA_6M         0.2909      0.264      1.102      0.277      -0.243       0.825
+Mom_6M         0.1169      0.193      0.604      0.549      -0.274       0.508
+==============================================================================
+Omnibus:                        2.977   Durbin-Watson:                   2.155
+Prob(Omnibus):                  0.226   Jarque-Bera (JB):                2.719
+Skew:                          -0.583   Prob(JB):                        0.257
+Kurtosis:                       2.759   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.707
+Model:                                   OLS   Adj. R-squared:                  0.662
+Method:                        Least Squares   F-statistic:                     15.68
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           4.64e-09
+Time:                               15:08:23   Log-Likelihood:                -156.88
+No. Observations:                         46   AIC:                             327.8
+Df Residuals:                             39   BIC:                             340.6
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -1.5266      2.021     -0.755      0.455      -5.615       2.562
+Mkt-RF_6M      0.5761      0.165      3.487      0.001       0.242       0.910
+SMB_6M         1.1051      0.276      4.005      0.000       0.547       1.663
+HML_6M        -0.2952      0.198     -1.488      0.145      -0.697       0.106
+RMW_6M         0.7344      0.391      1.880      0.068      -0.056       1.525
+CMA_6M         0.6645      0.300      2.213      0.033       0.057       1.272
+Mom_6M         0.1723      0.220      0.784      0.438      -0.272       0.617
+==============================================================================
+Omnibus:                        1.415   Durbin-Watson:                   2.175
+Prob(Omnibus):                  0.493   Jarque-Bera (JB):                1.372
+Skew:                          -0.386   Prob(JB):                        0.504
+Kurtosis:                       2.655   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (6M):
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     Next 6M Excess Return (%)   R-squared:                       0.833
+Model:                                   OLS   Adj. R-squared:                  0.807
+Method:                        Least Squares   F-statistic:                     32.37
+Date:                       Tue, 25 Jul 2023   Prob (F-statistic):           1.11e-13
+Time:                               15:08:23   Log-Likelihood:                -166.59
+No. Observations:                         46   AIC:                             347.2
+Df Residuals:                             39   BIC:                             360.0
+Df Model:                                  6                                         
+Covariance Type:                   nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2314      2.497     -0.894      0.377      -7.281       2.818
+Mkt-RF_6M      0.9366      0.204      4.590      0.000       0.524       1.349
+SMB_6M         1.9077      0.341      5.597      0.000       1.218       2.597
+HML_6M        -0.5063      0.245     -2.066      0.046      -1.002      -0.011
+RMW_6M         0.9381      0.483      1.944      0.059      -0.038       1.914
+CMA_6M         1.1595      0.371      3.127      0.003       0.409       1.909
+Mom_6M         0.1576      0.272      0.580      0.565      -0.392       0.707
+==============================================================================
+Omnibus:                        0.023   Durbin-Watson:                   2.574
+Prob(Omnibus):                  0.989   Jarque-Bera (JB):                0.153
+Skew:                          -0.047   Prob(JB):                        0.926
+Kurtosis:                       2.734   Cond. No.                         30.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+################################################################################
+
+TIMESTAMP: 2023-07-25 15:08:24.457043
+
+
+Regression results for quintile 1 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.861
+Model:                                    OLS   Adj. R-squared:                  0.836
+Method:                         Least Squares   F-statistic:                     34.04
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           8.94e-13
+Time:                                15:08:24   Log-Likelihood:                -151.52
+No. Observations:                          40   AIC:                             317.0
+Df Residuals:                              33   BIC:                             328.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         10.8778      5.815      1.870      0.070      -0.954      22.709
+Mkt-RF_12M     0.6444      0.226      2.854      0.007       0.185       1.104
+SMB_12M        0.2847      0.357      0.797      0.431      -0.442       1.012
+HML_12M       -1.1853      0.348     -3.404      0.002      -1.894      -0.477
+RMW_12M        0.0899      0.582      0.155      0.878      -1.093       1.273
+CMA_12M        0.9121      0.687      1.328      0.193      -0.485       2.309
+Mom_12M       -0.5954      0.511     -1.165      0.252      -1.635       0.444
+==============================================================================
+Omnibus:                       12.000   Durbin-Watson:                   2.026
+Prob(Omnibus):                  0.002   Jarque-Bera (JB):               13.592
+Skew:                           0.960   Prob(JB):                      0.00112
+Kurtosis:                       5.114   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 2 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.797
+Model:                                    OLS   Adj. R-squared:                  0.760
+Method:                         Least Squares   F-statistic:                     21.55
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           4.07e-10
+Time:                                15:08:24   Log-Likelihood:                -139.03
+No. Observations:                          40   AIC:                             292.1
+Df Residuals:                              33   BIC:                             303.9
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          7.7608      4.256      1.824      0.077      -0.898      16.419
+Mkt-RF_12M     0.4428      0.165      2.680      0.011       0.107       0.779
+SMB_12M        0.1283      0.261      0.490      0.627      -0.404       0.660
+HML_12M       -0.4363      0.255     -1.712      0.096      -0.955       0.082
+RMW_12M        0.1406      0.426      0.330      0.743      -0.725       1.007
+CMA_12M        0.4573      0.502      0.910      0.369      -0.565       1.480
+Mom_12M       -0.6537      0.374     -1.748      0.090      -1.415       0.107
+==============================================================================
+Omnibus:                        1.995   Durbin-Watson:                   2.179
+Prob(Omnibus):                  0.369   Jarque-Bera (JB):                1.071
+Skew:                           0.345   Prob(JB):                        0.585
+Kurtosis:                       3.408   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 3 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.849
+Model:                                    OLS   Adj. R-squared:                  0.821
+Method:                         Least Squares   F-statistic:                     30.84
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           3.51e-12
+Time:                                15:08:24   Log-Likelihood:                -132.27
+No. Observations:                          40   AIC:                             278.5
+Df Residuals:                              33   BIC:                             290.4
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.8743      3.594      0.522      0.605      -5.438       9.186
+Mkt-RF_12M     0.7004      0.140      5.020      0.000       0.417       0.984
+SMB_12M        0.3764      0.221      1.705      0.098      -0.073       0.826
+HML_12M       -0.0080      0.215     -0.037      0.971      -0.446       0.430
+RMW_12M        0.1751      0.359      0.487      0.629      -0.556       0.906
+CMA_12M        0.1277      0.424      0.301      0.765      -0.736       0.991
+Mom_12M        0.0575      0.316      0.182      0.857      -0.585       0.700
+==============================================================================
+Omnibus:                        4.087   Durbin-Watson:                   2.241
+Prob(Omnibus):                  0.130   Jarque-Bera (JB):                1.822
+Skew:                           0.142   Prob(JB):                        0.402
+Kurtosis:                       1.994   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 4 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.857
+Model:                                    OLS   Adj. R-squared:                  0.831
+Method:                         Least Squares   F-statistic:                     32.87
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.46e-12
+Time:                                15:08:24   Log-Likelihood:                -139.73
+No. Observations:                          40   AIC:                             293.5
+Df Residuals:                              33   BIC:                             305.3
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -2.2083      4.331     -0.510      0.614     -11.020       6.603
+Mkt-RF_12M     0.6546      0.168      3.893      0.000       0.312       0.997
+SMB_12M        0.8502      0.266      3.195      0.003       0.309       1.392
+HML_12M       -0.3088      0.259     -1.191      0.242      -0.836       0.219
+RMW_12M        0.3503      0.433      0.809      0.424      -0.531       1.232
+CMA_12M        0.9233      0.511      1.806      0.080      -0.117       1.963
+Mom_12M       -0.2003      0.381     -0.526      0.602      -0.975       0.574
+==============================================================================
+Omnibus:                        1.369   Durbin-Watson:                   2.159
+Prob(Omnibus):                  0.504   Jarque-Bera (JB):                1.154
+Skew:                          -0.219   Prob(JB):                        0.562
+Kurtosis:                       2.292   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+Regression results for quintile 5 (12M):
+                                OLS Regression Results                                
+======================================================================================
+Dep. Variable:     Next 12M Excess Return (%)   R-squared:                       0.876
+Model:                                    OLS   Adj. R-squared:                  0.853
+Method:                         Least Squares   F-statistic:                     38.73
+Date:                        Tue, 25 Jul 2023   Prob (F-statistic):           1.45e-13
+Time:                                15:08:24   Log-Likelihood:                -158.69
+No. Observations:                          40   AIC:                             331.4
+Df Residuals:                              33   BIC:                             343.2
+Df Model:                                   6                                         
+Covariance Type:                    nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          1.7364      6.957      0.250      0.804     -12.417      15.890
+Mkt-RF_12M     1.1865      0.270      4.393      0.000       0.637       1.736
+SMB_12M        1.4444      0.427      3.379      0.002       0.575       2.314
+HML_12M       -0.0202      0.417     -0.049      0.962      -0.868       0.827
+RMW_12M        0.3296      0.696      0.474      0.639      -1.086       1.745
+CMA_12M        0.6377      0.821      0.776      0.443      -1.033       2.309
+Mom_12M        0.1247      0.611      0.204      0.840      -1.119       1.368
+==============================================================================
+Omnibus:                        8.918   Durbin-Watson:                   2.513
+Prob(Omnibus):                  0.012   Jarque-Bera (JB):                8.604
+Skew:                           0.793   Prob(JB):                       0.0135
+Kurtosis:                       4.626   Cond. No.                         89.4
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
