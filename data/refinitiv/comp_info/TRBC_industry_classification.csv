@@ -1,0 +1,504 @@
+Instrument,TRBC Economic Sector Name,TRBC Business Sector Name,TRBC Industry Group Name,TRBC Industry Name,RIC
+POOL.OQ,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Recreational Products,POOL.OQ
+CHRW.OQ,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,CHRW.OQ
+AJG.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,AJG.N
+CNP.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,CNP.N
+AMCR.N,Basic Materials,Applied Resources,Containers & Packaging,Non-Paper Containers & Packaging,AMCR.N
+WM.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Environmental Services & Equipment,WM.N
+BA.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,BA.N
+FOX.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,FOX.OQ
+LIN.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,LIN.N
+WY.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,WY.N
+MCD.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,MCD.N
+HD.N,Consumer Cyclicals,Retailers,Specialty Retailers,Home Improvement Products & Services Retailers,HD.N
+SPG.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,SPG.N
+HBAN.OQ,Financials,Banking & Investment Services,Banking Services,Banks,HBAN.OQ
+QRVO.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,QRVO.OQ
+LVS.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,LVS.N
+CTRA.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,CTRA.N
+ON.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,ON.OQ
+AIG.N,Financials,Insurance,Insurance,Property & Casualty Insurance,AIG.N
+AIZ.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,AIZ.N
+CARR.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,CARR.N
+EVRG.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,EVRG.OQ
+COST.OQ,Consumer Cyclicals,Retailers,Diversified Retail,Discount Stores,COST.OQ
+MCO.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,MCO.N
+DIS.N,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,DIS.N
+PAYX.OQ,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Employment Services,PAYX.OQ
+AMD.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,AMD.OQ
+REG.OQ,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,REG.OQ
+DHI.N,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Homebuilding,DHI.N
+TRV.N,Financials,Insurance,Insurance,Property & Casualty Insurance,TRV.N
+BIO.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",BIO.N
+MOS.N,Basic Materials,Chemicals,Chemicals,Agricultural Chemicals,MOS.N
+BWA.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",BWA.N
+WDC.OQ,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,WDC.OQ
+VTR.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,VTR.N
+IVZ.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,IVZ.N
+ZBRA.OQ,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,ZBRA.OQ
+AMAT.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,AMAT.OQ
+STX.OQ,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,STX.OQ
+FDS.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,FDS.N
+SYK.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",SYK.N
+VRSN.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,VRSN.OQ
+TECH.OQ,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,TECH.OQ
+NVR.N,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Homebuilding,NVR.N
+BBWI.N,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,BBWI.N
+LOW.N,Consumer Cyclicals,Retailers,Specialty Retailers,Home Improvement Products & Services Retailers,LOW.N
+BSX.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,BSX.N
+SYY.N,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Food Retail & Distribution,SYY.N
+FCX.N,Basic Materials,Mineral Resources,Metals & Mining,Specialty Mining & Metals,FCX.N
+MAS.N,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Construction Supplies & Fixtures,MAS.N
+BEN.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,BEN.N
+META.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,META.OQ
+EXPD.OQ,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics",EXPD.OQ
+PAYC.N,Technology,Software & IT Services,Software & IT Services,Software,PAYC.N
+EXPE.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Leisure & Recreation,EXPE.OQ
+RJF.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,RJF.N
+CL.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Personal Products,CL.N
+VICI.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,VICI.N
+CE.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,CE.N
+UNH.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,UNH.N
+ARE.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,ARE.N
+GEN.OQ,Technology,Software & IT Services,Software & IT Services,Software,GEN.OQ
+LLY.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,LLY.N
+CDAY.N,Technology,Software & IT Services,Software & IT Services,Software,CDAY.N
+GRMN.N,Technology,Technology Equipment,Communications & Networking,Communications & Networking,GRMN.N
+PODD.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",PODD.OQ
+NWL.OQ,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,"Appliances, Tools & Housewares",NWL.OQ
+ISRG.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,ISRG.OQ
+AVB.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,AVB.N
+TPR.N,Consumer Cyclicals,Retailers,Specialty Retailers,Apparel & Accessories Retailers,TPR.N
+CBRE.N,Real Estate,Real Estate,Real Estate Operations,Real Estate Services,CBRE.N
+CINF.OQ,Financials,Insurance,Insurance,Property & Casualty Insurance,CINF.OQ
+SEE.N,Basic Materials,Applied Resources,Containers & Packaging,Non-Paper Containers & Packaging,SEE.N
+WMB.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil & Gas Transportation Services,WMB.N
+EA.OQ,Technology,Software & IT Services,Software & IT Services,Software,EA.OQ
+TMUS.OQ,Technology,Telecommunications Services,Telecommunications Services,Wireless Telecommunications Services,TMUS.OQ
+CB.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,CB.N
+TXN.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,TXN.OQ
+MDLZ.OQ,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,MDLZ.OQ
+BRO.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,BRO.N
+BALL.N,Basic Materials,Applied Resources,Containers & Packaging,Non-Paper Containers & Packaging,BALL.N
+PFG.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,PFG.OQ
+KEYS.N,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,KEYS.N
+SEDG.OQ,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,SEDG.OQ
+PCG.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,PCG.N
+RL.N,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Apparel & Accessories,RL.N
+JPM.N,Financials,Banking & Investment Services,Banking Services,Banks,JPM.N
+TTWO.OQ,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Toys & Children's Products,TTWO.OQ
+CDW.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,CDW.OQ
+RMD.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,RMD.N
+LNT.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,LNT.OQ
+CMG.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,CMG.N
+PCAR.OQ,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,PCAR.OQ
+GNRC.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,GNRC.N
+CHTR.OQ,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,CHTR.OQ
+PWR.N,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,PWR.N
+CCL.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",CCL.N
+PM.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Tobacco,PM.N
+COO.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",COO.N
+SNA.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,SNA.N
+UAL.OQ,Industrials,Transportation,Passenger Transportation Services,Airlines,UAL.OQ
+ESS.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,ESS.N
+KHC.OQ,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,KHC.OQ
+JBHT.OQ,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,JBHT.OQ
+CMI.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",CMI.N
+PNR.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,PNR.N
+CRL.N,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,CRL.N
+DPZ.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,DPZ.N
+HPQ.N,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,HPQ.N
+LW.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,LW.N
+TGT.N,Consumer Cyclicals,Retailers,Diversified Retail,Discount Stores,TGT.N
+NTAP.OQ,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,NTAP.OQ
+OXY.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,OXY.N
+IR.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,IR.N
+TER.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,TER.OQ
+WAB.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,WAB.N
+NOW.N,Technology,Software & IT Services,Software & IT Services,Software,NOW.N
+EXC.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,EXC.OQ
+BR.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,BR.N
+EMN.N,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,EMN.N
+AZO.N,Consumer Cyclicals,Retailers,Specialty Retailers,"Auto Vehicles, Parts & Service Retailers",AZO.N
+TEL.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,TEL.N
+FRT.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,FRT.N
+DUK.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,DUK.N
+KMI.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil & Gas Transportation Services,KMI.N
+DVN.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,DVN.N
+RCL.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",RCL.N
+VTRS.OQ,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,VTRS.OQ
+CAH.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,CAH.N
+AAL.OQ,Industrials,Transportation,Passenger Transportation Services,Airlines,AAL.OQ
+MKC.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,MKC.N
+IEX.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,IEX.N
+VLO.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Refining and Marketing,VLO.N
+LH.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,LH.N
+DRI.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,DRI.N
+MAA.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,MAA.N
+JNJ.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,JNJ.N
+ABC.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",ABC.N
+SHW.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,SHW.N
+GD.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,GD.N
+SBAC.OQ,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,SBAC.OQ
+MPWR.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,MPWR.OQ
+COP.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,COP.N
+ORCL.N,Technology,Software & IT Services,Software & IT Services,Software,ORCL.N
+AMP.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,AMP.N
+NXPI.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,NXPI.OQ
+CPRT.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,CPRT.OQ
+TXT.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,TXT.N
+T.N,Technology,Telecommunications Services,Telecommunications Services,Wireless Telecommunications Services,T.N
+MTCH.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,MTCH.OQ
+NDAQ.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,NDAQ.OQ
+FFIV.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,FFIV.OQ
+LEN.N,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Homebuilding,LEN.N
+CDNS.OQ,Technology,Software & IT Services,Software & IT Services,Software,CDNS.OQ
+NVDA.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,NVDA.OQ
+WELL.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,WELL.N
+PLD.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,PLD.N
+ROST.OQ,Consumer Cyclicals,Retailers,Specialty Retailers,Apparel & Accessories Retailers,ROST.OQ
+MRK.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,MRK.N
+WEC.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,WEC.N
+MSCI.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,MSCI.N
+TMO.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,TMO.N
+F.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,F.N
+GEHC.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,GEHC.OQ
+LYB.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,LYB.N
+IBM.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IBM.N
+IQV.N,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,IQV.N
+VRTX.OQ,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,VRTX.OQ
+DXCM.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",DXCM.OQ
+PEP.OQ,Consumer Non-Cyclicals,Food & Beverages,Beverages,Non-Alcoholic Beverages,PEP.OQ
+AOS.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,AOS.N
+BLK.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,BLK.N
+HII.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,HII.N
+CVS.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,CVS.N
+PH.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,PH.N
+NSC.N,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,NSC.N
+MSFT.OQ,Technology,Software & IT Services,Software & IT Services,Software,MSFT.OQ
+HWM.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,HWM.N
+BAX.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",BAX.N
+HUM.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,HUM.N
+AXON.OQ,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,AXON.OQ
+ZBH.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",ZBH.N
+TDY.N,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,TDY.N
+GILD.OQ,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,GILD.OQ
+EPAM.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,EPAM.N
+CMA.N,Financials,Banking & Investment Services,Banking Services,Banks,CMA.N
+NOC.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,NOC.N
+PNW.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,PNW.N
+BFb.N,Consumer Non-Cyclicals,Food & Beverages,Beverages,Distillers & Wineries,BFb.N
+DE.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,DE.N
+HSY.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,HSY.N
+GL.N,Financials,Insurance,Insurance,Life & Health Insurance,GL.N
+SLB.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil Related Services and Equipment,SLB.N
+AWK.N,Utilities,Utilities,Water & Related Utilities,Water & Related Utilities,AWK.N
+PKG.N,Basic Materials,Applied Resources,Containers & Packaging,Paper Packaging,PKG.N
+FLT.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,FLT.N
+ADI.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,ADI.OQ
+MMC.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,MMC.N
+IT.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,IT.N
+ECL.N,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,ECL.N
+BXP.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,BXP.N
+GE.N,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,GE.N
+ED.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,ED.N
+ALLE.N,Technology,Technology Equipment,Communications & Networking,Communications & Networking,ALLE.N
+OTIS.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Electrical Equipment,OTIS.N
+WFC.N,Financials,Banking & Investment Services,Banking Services,Banks,WFC.N
+CTVA.N,Basic Materials,Chemicals,Chemicals,Agricultural Chemicals,CTVA.N
+FTV.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,FTV.N
+AEE.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,AEE.N
+PRU.N,Financials,Insurance,Insurance,Life & Health Insurance,PRU.N
+DLTR.OQ,Consumer Cyclicals,Retailers,Diversified Retail,Discount Stores,DLTR.OQ
+CF.N,Basic Materials,Chemicals,Chemicals,Agricultural Chemicals,CF.N
+NEE.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,NEE.N
+FMC.N,Basic Materials,Chemicals,Chemicals,Agricultural Chemicals,FMC.N
+ILMN.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,ILMN.OQ
+KLAC.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,KLAC.OQ
+AME.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,AME.N
+NUE.N,Basic Materials,Mineral Resources,Metals & Mining,Iron & Steel,NUE.N
+D.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,D.N
+SJM.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,SJM.N
+EMR.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,EMR.N
+DVA.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,DVA.N
+CMS.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,CMS.N
+HPE.N,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Computer Hardware,HPE.N
+RHI.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Employment Services,RHI.N
+BDX.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",BDX.N
+AAP.N,Consumer Cyclicals,Retailers,Specialty Retailers,"Auto Vehicles, Parts & Service Retailers",AAP.N
+MGM.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,MGM.N
+ALGN.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",ALGN.OQ
+SRE.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,SRE.N
+REGN.OQ,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,REGN.OQ
+EFX.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,EFX.N
+USB.N,Financials,Banking & Investment Services,Banking Services,Banks,USB.N
+CSGP.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,CSGP.OQ
+HCA.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,HCA.N
+AVGO.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,AVGO.OQ
+DHR.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,DHR.N
+NWSA.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Consumer Publishing,NWSA.OQ
+RTX.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,RTX.N
+AAPL.OQ,Technology,Technology Equipment,"Computers, Phones & Household Electronics",Phones & Handheld Devices,AAPL.OQ
+CME.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,CME.OQ
+MRO.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,MRO.N
+ADM.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,ADM.N
+APD.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,APD.N
+FANG.OQ,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,FANG.OQ
+WRB.N,Financials,Insurance,Insurance,Property & Casualty Insurance,WRB.N
+AXP.N,Financials,Banking & Investment Services,Banking Services,Consumer Lending,AXP.N
+CLX.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Household Products,CLX.N
+DOV.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,DOV.N
+FSLR.OQ,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,FSLR.OQ
+MTB.N,Financials,Banking & Investment Services,Banking Services,Banks,MTB.N
+FDX.N,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics",FDX.N
+TROW.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,TROW.OQ
+JKHY.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,JKHY.OQ
+O.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,O.N
+MLM.N,Basic Materials,Mineral Resources,Construction Materials,Construction Materials,MLM.N
+RVTY.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,RVTY.N
+L.N,Financials,Insurance,Insurance,Property & Casualty Insurance,L.N
+QCOM.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,QCOM.OQ
+IPG.N,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Advertising & Marketing,IPG.N
+PHM.N,Consumer Cyclicals,Cyclical Consumer Products,Homebuilding & Construction Supplies,Homebuilding,PHM.N
+ANSS.OQ,Technology,Software & IT Services,Software & IT Services,Software,ANSS.OQ
+ULTA.OQ,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,ULTA.OQ
+KO.N,Consumer Non-Cyclicals,Food & Beverages,Beverages,Non-Alcoholic Beverages,KO.N
+FISV.OQ,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,FISV.OQ
+CSCO.OQ,Technology,Technology Equipment,Communications & Networking,Communications & Networking,CSCO.OQ
+WTW.OQ,Financials,Insurance,Insurance,Multiline Insurance & Brokers,WTW.OQ
+ANET.N,Technology,Technology Equipment,Communications & Networking,Communications & Networking,ANET.N
+ES.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,ES.N
+CTAS.OQ,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,CTAS.OQ
+GPN.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,GPN.N
+RSG.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Environmental Services & Equipment,RSG.N
+MCK.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,MCK.N
+HLT.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",HLT.N
+NFLX.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,NFLX.OQ
+RF.N,Financials,Banking & Investment Services,Banking Services,Banks,RF.N
+WMT.N,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Food Retail & Distribution,WMT.N
+AMGN.OQ,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,AMGN.OQ
+KIM.N,Real Estate,Real Estate,Residential & Commercial REITs,Commercial REITs,KIM.N
+PXD.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,PXD.N
+DG.N,Consumer Cyclicals,Retailers,Diversified Retail,Discount Stores,DG.N
+XRAY.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",XRAY.OQ
+EQR.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,EQR.N
+URI.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,URI.N
+TDG.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,TDG.N
+CNC.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,CNC.N
+NKE.N,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Footwear,NKE.N
+AES.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,AES.N
+ELV.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,ELV.N
+GWW.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,GWW.N
+K.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,K.N
+GOOGL.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,GOOGL.OQ
+GM.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,GM.N
+CCI.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,CCI.N
+COF.N,Financials,Banking & Investment Services,Banking Services,Consumer Lending,COF.N
+ROP.N,Technology,Software & IT Services,Software & IT Services,Software,ROP.N
+C.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,C.N
+ODFL.OQ,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,ODFL.OQ
+A.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,A.N
+MOH.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,MOH.N
+GS.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,GS.N
+MET.N,Financials,Insurance,Insurance,Life & Health Insurance,MET.N
+WYNN.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,WYNN.OQ
+PSA.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,PSA.N
+CPT.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,CPT.N
+MRNA.OQ,Healthcare,Pharmaceuticals & Medical Research,Biotechnology & Medical Research,Biotechnology & Medical Research,MRNA.OQ
+OGN.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,OGN.N
+BK.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,BK.N
+FAST.OQ,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,FAST.OQ
+LDOS.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,LDOS.N
+ORLY.OQ,Consumer Cyclicals,Retailers,Specialty Retailers,"Auto Vehicles, Parts & Service Retailers",ORLY.OQ
+CSX.OQ,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,CSX.OQ
+CFG.N,Financials,Banking & Investment Services,Banking Services,Banks,CFG.N
+NI.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,NI.N
+MO.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Tobacco,MO.N
+DD.N,Basic Materials,Chemicals,Chemicals,Diversified Chemicals,DD.N
+AEP.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,AEP.OQ
+HOLX.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,HOLX.OQ
+BBY.N,Consumer Cyclicals,Retailers,Specialty Retailers,Computer & Electronics Retailers,BBY.N
+LHX.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,LHX.N
+APA.OQ,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,APA.OQ
+IFF.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,IFF.N
+CEG.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,CEG.OQ
+STT.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,STT.N
+JCI.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,JCI.N
+FE.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,FE.N
+PNC.N,Financials,Banking & Investment Services,Banking Services,Banks,PNC.N
+VZ.N,Technology,Telecommunications Services,Telecommunications Services,Integrated Telecommunications Services,VZ.N
+NEM.N,Basic Materials,Mineral Resources,Metals & Mining,Gold,NEM.N
+ROL.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Business Support Services,ROL.N
+KEY.N,Financials,Banking & Investment Services,Banking Services,Banks,KEY.N
+GIS.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,GIS.N
+CMCSA.OQ,Technology,Telecommunications Services,Telecommunications Services,Wireless Telecommunications Services,CMCSA.OQ
+PFE.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,PFE.N
+EIX.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,EIX.N
+NWS.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Consumer Publishing,NWS.OQ
+MU.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,MU.OQ
+UPS.N,Industrials,Transportation,Freight & Logistics Services,"Courier, Postal, Air Freight & Land-based Logistics",UPS.N
+TYL.N,Technology,Software & IT Services,Software & IT Services,Software,TYL.N
+UNP.N,Industrials,Transportation,Freight & Logistics Services,Ground Freight & Logistics,UNP.N
+BAC.N,Financials,Banking & Investment Services,Banking Services,Banks,BAC.N
+KMX.N,Consumer Cyclicals,Retailers,Specialty Retailers,"Auto Vehicles, Parts & Service Retailers",KMX.N
+PARA.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,PARA.OQ
+IP.N,Basic Materials,Applied Resources,Containers & Packaging,Paper Packaging,IP.N
+MDT.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",MDT.N
+MMM.N,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,MMM.N
+CZR.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Casinos & Gaming,CZR.OQ
+INTU.OQ,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),INTU.OQ
+OKE.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil & Gas Transportation Services,OKE.N
+ADP.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,ADP.OQ
+EQIX.OQ,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,EQIX.OQ
+CHD.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Household Products,CHD.N
+MTD.N,Technology,Technology Equipment,Office Equipment,Office Equipment,MTD.N
+KDP.OQ,Consumer Non-Cyclicals,Food & Beverages,Beverages,Non-Alcoholic Beverages,KDP.OQ
+EBAY.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,EBAY.OQ
+PEG.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,PEG.N
+BIIB.OQ,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,BIIB.OQ
+CTSH.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,CTSH.OQ
+ALB.N,Basic Materials,Chemicals,Chemicals,Specialty Chemicals,ALB.N
+TRGP.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil & Gas Transportation Services,TRGP.N
+NCLH.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",NCLH.N
+UDR.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,UDR.N
+DGX.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,DGX.N
+CBOE.Z,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,CBOE.Z
+ETSY.OQ,Consumer Cyclicals,Retailers,Diversified Retail,Department Stores,ETSY.OQ
+HIG.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,HIG.N
+ACGL.OQ,Financials,Insurance,Insurance,Property & Casualty Insurance,ACGL.OQ
+NDSN.OQ,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,NDSN.OQ
+VRSK.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,VRSK.OQ
+AMT.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,AMT.N
+PYPL.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,PYPL.OQ
+CAG.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,CAG.N
+UHS.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Healthcare Facilities & Services,UHS.N
+TFX.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",TFX.N
+SYF.N,Financials,Banking & Investment Services,Banking Services,Consumer Lending,SYF.N
+WAT.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,WAT.N
+INCY.OQ,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,INCY.OQ
+LRCX.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductor Equipment & Testing,LRCX.OQ
+IDXX.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",IDXX.OQ
+PPG.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,PPG.N
+LKQ.OQ,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",LKQ.OQ
+BG.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,BG.N
+HES.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,HES.N
+EOG.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,EOG.N
+MAR.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,"Hotels, Motels & Cruise Lines",MAR.OQ
+TJX.N,Consumer Cyclicals,Retailers,Diversified Retail,Discount Stores,TJX.N
+MNST.OQ,Consumer Non-Cyclicals,Food & Beverages,Beverages,Non-Alcoholic Beverages,MNST.OQ
+VMC.N,Basic Materials,Mineral Resources,Construction Materials,Construction Materials,VMC.N
+EW.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,Advanced Medical Equipment & Technology,EW.N
+ALL.N,Financials,Insurance,Insurance,Property & Casualty Insurance,ALL.N
+BMY.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,BMY.N
+APH.N,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,APH.N
+HON.OQ,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,HON.OQ
+GPC.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",GPC.N
+MHK.N,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,Home Furnishings,MHK.N
+MCHP.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,MCHP.OQ
+CAT.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Heavy Machinery & Vehicles,CAT.N
+PG.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Personal Products,PG.N
+ZTS.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,ZTS.N
+STE.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",STE.N
+BKR.OQ,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil Related Services and Equipment,BKR.OQ
+AFL.N,Financials,Insurance,Insurance,Life & Health Insurance,AFL.N
+CPB.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,CPB.N
+PTC.OQ,Technology,Software & IT Services,Software & IT Services,Software,PTC.OQ
+FITB.OQ,Financials,Banking & Investment Services,Banking Services,Banks,FITB.OQ
+MSI.N,Technology,Technology Equipment,Communications & Networking,Communications & Networking,MSI.N
+XEL.OQ,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,XEL.OQ
+HSIC.OQ,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",HSIC.OQ
+ITW.N,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,ITW.N
+WST.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",WST.N
+ALK.N,Industrials,Transportation,Passenger Transportation Services,Airlines,ALK.N
+DFS.N,Financials,Banking & Investment Services,Banking Services,Banks,DFS.N
+APTV.N,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,"Auto, Truck & Motorcycle Parts",APTV.N
+MPC.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Refining and Marketing,MPC.N
+PGR.N,Financials,Insurance,Insurance,Property & Casualty Insurance,PGR.N
+ZION.OQ,Financials,Banking & Investment Services,Banking Services,Banks,ZION.OQ
+ICE.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,ICE.N
+KMB.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Personal Products,KMB.N
+SWKS.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,SWKS.OQ
+EL.N,Consumer Non-Cyclicals,Personal & Household Products & Services,Personal & Household Products & Services,Personal Products,EL.N
+TSLA.OQ,Consumer Cyclicals,Automobiles & Auto Parts,Automobiles & Auto Parts,Auto & Truck Manufacturers,TSLA.OQ
+EXR.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,EXR.N
+SPGI.N,Industrials,Industrial & Commercial Services,Professional & Commercial Services,Professional Information Services,SPGI.N
+ADBE.OQ,Technology,Software & IT Services,Software & IT Services,Software,ADBE.OQ
+ADSK.OQ,Technology,Software & IT Services,Software & IT Services,Software,ADSK.OQ
+WRK.N,Basic Materials,Applied Resources,Containers & Packaging,Paper Packaging,WRK.N
+WHR.N,Consumer Cyclicals,Cyclical Consumer Products,Household Goods,"Appliances, Tools & Housewares",WHR.N
+FOXA.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,FOXA.OQ
+TT.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,TT.N
+TSN.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,TSN.N
+AKAM.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,AKAM.OQ
+LUV.N,Industrials,Transportation,Passenger Transportation Services,Airlines,LUV.N
+INVH.N,Real Estate,Real Estate,Residential & Commercial REITs,Residential REITs,INVH.N
+TSCO.OQ,Consumer Cyclicals,Retailers,Specialty Retailers,Miscellaneous Specialty Retailers,TSCO.OQ
+AON.N,Financials,Insurance,Insurance,Multiline Insurance & Brokers,AON.N
+AMZN.OQ,Consumer Cyclicals,Retailers,Diversified Retail,Department Stores,AMZN.OQ
+MS.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,MS.N
+BRKb.N,Consumer Non-Cyclicals,Consumer Goods Conglomerates,Consumer Goods Conglomerates,Consumer Goods Conglomerates,BRKb.N
+GOOG.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,GOOG.OQ
+KR.N,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Food Retail & Distribution,KR.N
+BKNG.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Leisure & Recreation,BKNG.OQ
+STZ.N,Consumer Non-Cyclicals,Food & Beverages,Beverages,Brewers,STZ.N
+WBD.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,WBD.OQ
+ABBV.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,ABBV.N
+STLD.OQ,Basic Materials,Mineral Resources,Metals & Mining,Iron & Steel,STLD.OQ
+MA.N,Technology,Software & IT Services,Software & IT Services,Online Services,MA.N
+XOM.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Refining and Marketing,XOM.N
+SWK.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,SWK.N
+FICO.N,Technology,Software & IT Services,Software & IT Services,Software,FICO.N
+HRL.N,Consumer Non-Cyclicals,Food & Beverages,Food & Tobacco,Food Processing,HRL.N
+INTC.OQ,Technology,Technology Equipment,Semiconductors & Semiconductor Equipment,Semiconductors,INTC.OQ
+TRMB.OQ,Technology,Software & IT Services,Software & IT Services,Software,TRMB.OQ
+WBA.OQ,Consumer Non-Cyclicals,Food & Drug Retailing,Food & Drug Retailing,Drug Retailers,WBA.OQ
+OMC.N,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Advertising & Marketing,OMC.N
+GLW.N,Technology,Technology Equipment,Electronic Equipment & Parts,Electronic Equipment & Parts,GLW.N
+CRM.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,CRM.N
+SBUX.OQ,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,SBUX.OQ
+ATO.N,Utilities,Utilities,Natural Gas Utilities,Natural Gas Utilities,ATO.N
+ETR.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,ETR.N
+HAL.N,Energy,Energy - Fossil Fuels,Oil & Gas Related Equipment and Services,Oil Related Services and Equipment,HAL.N
+TFC.N,Financials,Banking & Investment Services,Banking Services,Banks,TFC.N
+ATVI.OQ,Technology,Software & IT Services,Software & IT Services,Online Services,ATVI.OQ
+TAP.N,Consumer Non-Cyclicals,Food & Beverages,Beverages,Brewers,TAP.N
+ABT.N,Healthcare,Healthcare Services & Equipment,Healthcare Equipment & Supplies,"Medical Equipment, Supplies & Distribution",ABT.N
+V.N,Technology,Software & IT Services,Software & IT Services,Online Services,V.N
+YUM.N,Consumer Cyclicals,Cyclical Consumer Services,Hotels & Entertainment Services,Restaurants & Bars,YUM.N
+LYV.N,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Entertainment Production,LYV.N
+JNPR.N,Technology,Technology Equipment,Communications & Networking,Communications & Networking,JNPR.N
+RE.N,Financials,Insurance,Insurance,Reinsurance,RE.N
+FTNT.OQ,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,FTNT.OQ
+DTE.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,DTE.N
+HST.OQ,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,HST.OQ
+IRM.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,IRM.N
+PEAK.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,PEAK.N
+FIS.N,Technology,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech) & Infrastructure,Financial Technology (Fintech),FIS.N
+DAL.N,Industrials,Transportation,Passenger Transportation Services,Airlines,DAL.N
+ROK.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,ROK.N
+DOW.N,Basic Materials,Chemicals,Chemicals,Commodity Chemicals,DOW.N
+PPL.N,Utilities,Utilities,Multiline Utilities,Multiline Utilities,PPL.N
+NTRS.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Management & Fund Operators,NTRS.OQ
+VFC.N,Consumer Cyclicals,Cyclical Consumer Products,Textiles & Apparel,Apparel & Accessories,VFC.N
+ETN.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Electrical Components & Equipment,ETN.N
+CVX.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,CVX.N
+LNC.N,Financials,Insurance,Insurance,Life & Health Insurance,LNC.N
+CI.N,Healthcare,Healthcare Services & Equipment,Healthcare Providers & Services,Managed Healthcare,CI.N
+ACN.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,ACN.N
+XYL.N,Industrials,Industrial Goods,"Machinery, Tools, Heavy Vehicles, Trains & Ships",Industrial Machinery & Equipment,XYL.N
+HAS.OQ,Consumer Cyclicals,Cyclical Consumer Products,Leisure Products,Toys & Children's Products,HAS.OQ
+ENPH.OQ,Energy,Renewable Energy,Renewable Energy,Renewable Energy Equipment & Services,ENPH.OQ
+SO.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,SO.N
+CTLT.N,Healthcare,Pharmaceuticals & Medical Research,Pharmaceuticals,Pharmaceuticals,CTLT.N
+DISH.OQ,Consumer Cyclicals,Cyclical Consumer Services,Media & Publishing,Broadcasting,DISH.OQ
+EQT.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Exploration and Production,EQT.N
+NRG.N,Utilities,Utilities,Electric Utilities & IPPs,Electric Utilities,NRG.N
+MKTX.OQ,Financials,Banking & Investment Services,Investment Banking & Investment Services,Financial & Commodity Market Operators & Service Providers,MKTX.OQ
+LMT.N,Industrials,Industrial Goods,Aerospace & Defense,Aerospace & Defense,LMT.N
+DLR.N,Real Estate,Real Estate,Residential & Commercial REITs,Specialized REITs,DLR.N
+PSX.N,Energy,Energy - Fossil Fuels,Oil & Gas,Oil & Gas Refining and Marketing,PSX.N
+SCHW.N,Financials,Banking & Investment Services,Investment Banking & Investment Services,Investment Banking & Brokerage Services,SCHW.N
+DXC.N,Technology,Software & IT Services,Software & IT Services,IT Services & Consulting,DXC.N
+SNPS.OQ,Technology,Software & IT Services,Software & IT Services,Software,SNPS.OQ
+J.N,Industrials,Industrial & Commercial Services,Construction & Engineering,Construction & Engineering,J.N
+AVY.N,Basic Materials,Applied Resources,Containers & Packaging,Non-Paper Containers & Packaging,AVY.N
