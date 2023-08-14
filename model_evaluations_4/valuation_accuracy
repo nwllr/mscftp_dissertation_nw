@@ -1,0 +1,100 @@
+
+################################################################################
+
+TIMESTAMP: 2023-08-01 13:05:25.158713
+MODEL: RF (pca) - less data
+
+Test Set (2019-2023)
+Root Mean Squared Error: 118.09 Billion USD
+Mean Absolute Error: 34.90 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-01 13:09:54.974563
+MODEL: ELM (pca) - less data
+
+Test Set (2019-2023)
+Root Mean Squared Error: 137.96 Billion USD
+Mean Absolute Error: 40.30 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-01 13:11:23.895727
+MODEL: NN 3HL64N (pca) - less data
+
+Test Set (2019-2023)
+Root Mean Squared Error: 135.89 Billion USD
+Mean Absolute Error: 40.69 Billion USD
+
+################################################################################
+################################################################################
+
+TIMESTAMP: 2023-08-02 13:59:01.893364
+MODEL: Ensemble
+
+Test Set (2019-2023)
+Root Mean Squared Error: 135.84 Billion USD
+Mean Absolute Error: 42.92 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-02 14:04:47.621571
+MODEL: Ensemble
+
+Test Set (2019-2023)
+Root Mean Squared Error: 135.84 Billion USD
+Mean Absolute Error: 42.92 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:11:27.420419
+MODEL: RF (pca) - winsor
+
+Test Set (2019-2023)
+Root Mean Squared Error: 120.04 Billion USD
+Mean Absolute Error: 37.16 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:12:01.741844
+MODEL: ELM (pca) - winsor
+
+Test Set (2019-2023)
+Root Mean Squared Error: 149.85 Billion USD
+Mean Absolute Error: 45.43 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:12:34.744212
+MODEL: NN 3HL64N (pca) - winsor
+
+Test Set (2019-2023)
+Root Mean Squared Error: 138.17 Billion USD
+Mean Absolute Error: 37.15 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:29:57.970689
+MODEL: RF (pca) - standard_scaler
+
+Test Set (2019-2023)
+Root Mean Squared Error: 112.68 Billion USD
+Mean Absolute Error: 33.95 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:30:34.354848
+MODEL: ELM (pca) - standard_scaler
+
+Test Set (2019-2023)
+Root Mean Squared Error: 148.55 Billion USD
+Mean Absolute Error: 47.28 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-08-05 12:30:57.851209
+MODEL: NN 3HL64N (pca) - standard_scaler
+
+Test Set (2019-2023)
+Root Mean Squared Error: 117.22 Billion USD
+Mean Absolute Error: 36.52 Billion USD

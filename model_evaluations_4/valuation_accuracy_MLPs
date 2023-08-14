@@ -1,0 +1,80 @@
+################################################################################
+
+TIMESTAMP: 2023-07-25 17:47:39.911964
+MODEL: NN 3HL512N (no log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 134.23 Billion USD
+Mean Absolute Error: 42.18 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 17:49:23.612798
+MODEL: NN 3HL512N (yes log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 151145.24 Billion USD
+Mean Absolute Error: 12074.03 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 17:56:40.673699
+MODEL: NN 3HL512N (no log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 137.77 Billion USD
+Mean Absolute Error: 44.71 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 17:58:05.727972
+MODEL: NN 3HL512N (yes log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 3640.59 Billion USD
+Mean Absolute Error: 419.19 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 18:29:12.147043
+MODEL: NN 3HL64N (no log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 134.99 Billion USD
+Mean Absolute Error: 40.98 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 18:29:34.888905
+MODEL: NN 3HL64N (yes log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 5574405.46 Billion USD
+Mean Absolute Error: 143803.65 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 18:29:47.715759
+MODEL: NN 3HL64N (yes log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 325278.98 Billion USD
+Mean Absolute Error: 12385.54 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 18:33:32.108108
+MODEL: NN 3HL64N (no log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 138.70 Billion USD
+Mean Absolute Error: 45.66 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 18:35:08.012492
+MODEL: NN 3HL64N (yes log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 2767692.09 Billion USD
+Mean Absolute Error: 98409.67 Billion USD

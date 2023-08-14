@@ -1,0 +1,36 @@
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 11:45:30.191161
+MODEL: RF (no log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 107.20 Billion USD
+Mean Absolute Error: 27.89 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 11:49:13.199884
+MODEL: RF (yes log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 121.98 Billion USD
+Mean Absolute Error: 29.87 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 11:59:12.910734
+MODEL: RF (no log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 114.64 Billion USD
+Mean Absolute Error: 37.97 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 12:01:09.646319
+MODEL: RF (yes log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 128.91 Billion USD
+Mean Absolute Error: 38.03 Billion USD

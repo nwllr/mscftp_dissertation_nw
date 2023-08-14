@@ -1,0 +1,36 @@
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 13:14:18.828326
+MODEL: ELM (no log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 170.94 Billion USD
+Mean Absolute Error: 62.50 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:37:01.157001
+MODEL: ELM (yes log, no pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 175.24 Billion USD
+Mean Absolute Error: 57.74 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:46:55.422788
+MODEL: ELM (no log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 164.79 Billion USD
+Mean Absolute Error: 55.13 Billion USD
+
+################################################################################
+
+TIMESTAMP: 2023-07-25 14:49:23.317645
+MODEL: ELM (yes log, yes pca)
+
+Test Set (2019-2023)
+Root Mean Squared Error: 178.43 Billion USD
+Mean Absolute Error: 64.95 Billion USD
