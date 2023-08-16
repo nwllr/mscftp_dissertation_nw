@@ -42,7 +42,7 @@ The data folder contains all raw data files and the combined datasets produced b
 
 The folders *model_evaluations* 1-4 contain different levels of result analyses produced in the experiment.
 
-The folders starting with *alpha* contain the summarised alpha results for each model as well as the detailed regression results for each model as referred to in the main text dissertation. 
+The folders starting with *alpha* contain the summarised alpha results and the detailed regression results for each model as referred to in the main text of the dissertation. 
 
 The *visualisations* folder contains the visualisations produced by **Visual.py** and **Visualisations_jupyter.ipynb**.
 
