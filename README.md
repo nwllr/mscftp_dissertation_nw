@@ -10,10 +10,15 @@ This repository contains all supporting files for the MSc Dissertation *"A New M
 
 Running the **main.py** file will produce the main results of the study. It makes use of the following custom modules:
 
+- **EvalFunctions.py**: Functions used to calculate mispricing, quintiles and first results
+- **EstAlpha.py**: Functions used to estimate alpha returns
+- **PrePro.py**: Functions used for preprocessing of the data
+- **Visual.py**: Functions to produce visualisations (larger part of visualisations are produced separately in the **Visualisations_jupyter.ipynb** file)
+- **DimReduction.py**: Principal Component Analysis implementation used for dimensionality reduction
+
 - **BGLR.py**: Cross-sectional Linear Regression implementation following Bartram and Grinblatt (2018)
 - **LR.py**: OLS Linear Regression implementation
 - **MultipleValuation.py**: P/E ratio multiples valuation implementation
-
 
 - **RF.py**: Random Forest implementation
 - **ELM.py**: Extreme Learning Machine implementation
@@ -21,12 +26,6 @@ Running the **main.py** file will produce the main results of the study. It make
 - **Ensemble.py**: RF+ELM+MLP Ensemble implementation 
 
 
-- **EvalFunctions.py**: Functions used to calculate mispricing, quintiles and first results
-- **EstAlpha.py**: Functions used to estimate alpha returns
-
-- **PrePro.py**: Functions used for preprocessing of the data
-- **DimReduction.py**: Principal Component Analysis implementation used for dimensionality reduction
-- **Visual.py**: Functions to produce visualisations (larger part of visualisations are produced separately in the **Visualisations_jupyter.ipynb** file)
 
 
 ### Data Preparation
